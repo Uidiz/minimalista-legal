@@ -13,7 +13,7 @@ By using **Minimalista**, you agree to these Terms of Use. If you do not agree, 
 - You acknowledge that **Minimalista** may automatically change your device’s wallpaper to a black background as part of its functionality.
 
 ## 4. Intellectual Property
-All content, features, and code in **Minimalista** are owned by **[Daniele Terracciano]** and are protected by copyright laws. You may not copy, modify, or distribute the app or its content without permission.
+All content, features, and code in **Minimalista** are owned by **Daniele Terracciano** and are protected by copyright laws. You may not copy, modify, or distribute the app or its content without permission.
 
 ## 5. Limitation of Liability
 We are not liable for any damages arising from your use of **Minimalista**. The app is provided "as is," and we make no warranties regarding its functionality or performance.
